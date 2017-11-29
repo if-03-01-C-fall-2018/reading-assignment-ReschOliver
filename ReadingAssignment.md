@@ -40,13 +40,10 @@ Bootstrap is an open source toolkit for developing with HTML, CSS and JavaScript
 7. ```<script src="js/bootstrap.min.js"></script>```Here we are pointing to another JavaScript library necessary for Bootstrap - we will discuss that further in the summer term as well.
 8. Save the cheatsheet and open it in a web browser, you will realize the page looks like any other html page. In fact if you open the DevTools in Chrome (Windows: F12, Ctrl + Shift + I; Mac: Cmd + Opt + I) and look for errors it will tell you that any files for bootstrap aren't found.
 9. So we have to make sure that our cheatsheet will find the necessary  Bootstrap files. Unpack the files of bootstrap-3.3.7-dist.zip and copy the folders css, fonts and js to your cheatsheet folder. Alternatively you can download the file here (look for the current compiled and minified version): [Download Bootstrap](https://getbootstrap.com/docs/3.3/getting-started/#template)
-10. Now we will clean up a little bit.
-  - Delete all files in the folder css except for bootstrap.min.css.
-  - Delete the files bootstrap.js and npm.js in the folder js.
-11. Now reload your cheatsheet (F5) in your browser. All the error messages should be gone by now and the font and the padding of the content has changed. Now you know that bootstrap has been included.
-12. Hooray! and Congratulations - you've just finished your first Bootstrap installation.  
+10. Now reload your cheatsheet (F5) in your browser. All the error messages should be gone by now and the font and the padding of the content has changed. Now you know that bootstrap has been included.
+11. Hooray! and Congratulations - you've just finished your first Bootstrap installation.  
 
-13. Take a look at the Bootstrap webpage and figure out how Bootstrap is structured.
+12. Take a look at the Bootstrap webpage and figure out how Bootstrap is structured.
 https://getbootstrap.com/docs/3.3/getting-started/
 
 ### [Containers](https://getbootstrap.com/docs/4.0/layout/overview/#containers)
